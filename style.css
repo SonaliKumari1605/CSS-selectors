@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(213, 171, 252);
+    padding: 3.5rem;
+}
+
+.head{
+    color: darkblue;
+    padding-bottom: 1.5rem;
+}
+
+#bglime{
+    background-color: lime;
+    font-size: 2rem;
+    padding-bottom: 0;
+}
+
+h2 span{
+    color: red;
+}
+h4{
+    padding: 1.5rem 0rem;
+}
+
+p{
+    font-size: 1.3rem;
+    font-family: sans-serif;
+    padding: 1.3rem 0rem;
+    color: white;
+}
+
+#para{
+    color: green;
+}
+ p span{
+    color: black;
+    font-size: 2.2rem;
+}
+h3{
+    padding: 1.3rem 0rem;
+}
+
+ul{
+    padding: 1.3rem 0rem;
+}
+
+
+
+
+
